@@ -1,1 +1,2 @@
-console.log("V 03");
+console.log("V 11");
+console.log("odradili smo ispravak greški");
